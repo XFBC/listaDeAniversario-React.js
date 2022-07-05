@@ -1,0 +1,17 @@
+.Card{
+ display: flex;
+ justify-content: space-between;
+ height: 70px;
+ width: 100%;
+ background-color: #DEDDD5;
+ border-radius: 10px;
+ align-items: center;
+ margin: 10px;
+ padding-inline: 50px;
+}
+
+.Card strong{
+  font-size: 18px;
+}
+
+
